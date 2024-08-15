@@ -8,7 +8,9 @@ Pisces
 
 Pisces is a time series database including a desktop application that graphs and analyzes time series data. Pisces is designed to organize, graph, and analyze natural resource data that varies with time: gauge height, river flow, water temperature, etc. 
 
-![Pisces Example](https://raw.githubusercontent.com/wiki/usbr/pisces/images/PiscesMain.PNG)
+![image](https://github.com/user-attachments/assets/e69c47e1-f6dc-4a0f-9408-0c62a5bc658e)
+
+
  
 The Pisces time series database is designed to be fast and simple.  The default database engine is Sqlite http://www.sqlite.com/
 However, Pisces also supports postgresql, MySql, SqlServer, and ~~SqlCompact~~.
